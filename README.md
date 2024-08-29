@@ -1,4 +1,5 @@
-tokenator/
+```
+the-tokenator/
     ├── README.md
     ├── requirements.txt
     ├── app/
@@ -44,3 +45,4 @@ tokenator/
                 ├── def load(vocabulary_path):
                 ├── def tokenize(self, text):
                 └── def decode(self, tokens):
+```
